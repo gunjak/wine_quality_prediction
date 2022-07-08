@@ -24,7 +24,7 @@ estimators:
 model_dir: saved_models
 
 reports:
-  params: C:\Users\Gunja\Desktop\wine_quality_prediction\wine_quality_prediction\src\report\params.json
-  scores: C:\Users\Gunja\Desktop\wine_quality_prediction\wine_quality_prediction\src\report\scores.json
+  params: C:\Users\Gunja\Desktop\wine_quality_prediction\wine_quality_prediction\report\params.json
+  scores: C:\Users\Gunja\Desktop\wine_quality_prediction\wine_quality_prediction\report\scores.json
 
 webapp_model_dir: prediction_service/model/model.joblib
